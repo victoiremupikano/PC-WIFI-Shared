@@ -184,7 +184,7 @@
             this.rbBlocInterface.Font = new System.Drawing.Font("Bahnschrift SemiLight", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.rbBlocInterface.Location = new System.Drawing.Point(10, 175);
             this.rbBlocInterface.Name = "rbBlocInterface";
-            this.rbBlocInterface.Size = new System.Drawing.Size(89, 20);
+            this.rbBlocInterface.Size = new System.Drawing.Size(88, 20);
             this.rbBlocInterface.TabIndex = 27;
             this.rbBlocInterface.TabStop = true;
             this.rbBlocInterface.Text = "Desactiver";
@@ -207,7 +207,7 @@
             this.rbSetConfig.Font = new System.Drawing.Font("Bahnschrift SemiLight", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.rbSetConfig.Location = new System.Drawing.Point(10, 150);
             this.rbSetConfig.Name = "rbSetConfig";
-            this.rbSetConfig.Size = new System.Drawing.Size(88, 20);
+            this.rbSetConfig.Size = new System.Drawing.Size(87, 20);
             this.rbSetConfig.TabIndex = 26;
             this.rbSetConfig.TabStop = true;
             this.rbSetConfig.Text = "Configurer";
@@ -285,7 +285,7 @@
             this.chkPartager.Font = new System.Drawing.Font("Bahnschrift Condensed", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.chkPartager.Location = new System.Drawing.Point(13, 18);
             this.chkPartager.Name = "chkPartager";
-            this.chkPartager.Size = new System.Drawing.Size(167, 20);
+            this.chkPartager.Size = new System.Drawing.Size(166, 20);
             this.chkPartager.TabIndex = 38;
             this.chkPartager.Text = "Cliquer pour activer le partager :";
             this.chkPartager.UseVisualStyleBackColor = true;
@@ -349,7 +349,7 @@
             this.Label3.Font = new System.Drawing.Font("Bahnschrift SemiLight", 9.75F);
             this.Label3.Location = new System.Drawing.Point(6, 3);
             this.Label3.Name = "Label3";
-            this.Label3.Size = new System.Drawing.Size(274, 254);
+            this.Label3.Size = new System.Drawing.Size(274, 241);
             this.Label3.TabIndex = 22;
             this.Label3.Text = resources.GetString("Label3.Text");
             this.Label3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
